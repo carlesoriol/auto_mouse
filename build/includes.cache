@@ -1,0 +1,247 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/cores/rp2040"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/variants/rpipico"
+  },
+  {
+    "Sourcefile": "/home/carles/Projectes/auto_mouse/build/sketch/auto_mouse.ino.cpp",
+    "Include": "Mouse.h",
+    "Includepath": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/Mouse/src"
+  },
+  {
+    "Sourcefile": "/home/carles/Projectes/auto_mouse/build/sketch/auto_mouse.ino.cpp",
+    "Include": "HID_Mouse.h",
+    "Includepath": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Mouse/src"
+  },
+  {
+    "Sourcefile": "/home/carles/Projectes/auto_mouse/build/sketch/auto_mouse.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/EEPROM/src"
+  },
+  {
+    "Sourcefile": "/home/carles/Projectes/auto_mouse/build/sketch/auto_mouse.ino.cpp",
+    "Include": "Keyboard.h",
+    "Includepath": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/Keyboard/src"
+  },
+  {
+    "Sourcefile": "/home/carles/Projectes/auto_mouse/build/sketch/auto_mouse.ino.cpp",
+    "Include": "HID_Keyboard.h",
+    "Includepath": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src"
+  },
+  {
+    "Sourcefile": "/home/carles/Projectes/auto_mouse/build/sketch/auto_mouse.ino.cpp",
+    "Include": "NeoPixelBus.h",
+    "Includepath": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src"
+  },
+  {
+    "Sourcefile": "/home/carles/Projectes/auto_mouse/build/sketch/auto_mouse.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/SPI/src"
+  },
+  {
+    "Sourcefile": "/home/carles/Projectes/auto_mouse/build/sketch/auto_mouse.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/Mouse/src/Mouse.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Mouse/src/HID_Mouse.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/EEPROM/src/EEPROM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/Keyboard/src/Keyboard.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src/HID_Keyboard.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src/KeyboardLayout_da_DK.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src/KeyboardLayout_de_DE.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src/KeyboardLayout_en_US.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src/KeyboardLayout_es_ES.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src/KeyboardLayout_fr_FR.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src/KeyboardLayout_it_IT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src/KeyboardLayout_pt_PT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/HID_Keyboard/src/KeyboardLayout_sv_SE.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/animations/NeoPixelAnimator.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/HsbColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/HslColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/HtmlColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/HtmlColorNameStrings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/HtmlColorNames.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/HtmlColorShortNames.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/NeoGammaDynamicTableMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/NeoGammaTableMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/Rgb48Color.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/RgbColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/RgbColorBase.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/Rgbw64Color.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/RgbwColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/Rgbww80Color.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/RgbwwColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/RgbwwwColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/colors/SegmentDigit.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/methods/Esp32_i2s.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/methods/NeoEsp32RmtMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/methods/NeoEsp8266I2sMethodCore.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/methods/NeoEsp8266UartMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/methods/NeoEspBitBangMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/methods/NeoPixelAvr.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/Arduino/libraries/NeoPixelBus_by_Makuna/src/internal/methods/Rp2040/NeoRp2040PioMonoProgram.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/carles/.arduino15/packages/rp2040/hardware/rp2040/3.8.1/libraries/SPI/src/SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
