@@ -1,7 +1,7 @@
 
 # Charlie's auto-mouse
 
-Avoid lock computer or activity producing mouse or keyboard movements.
+Avoid computer or activity lock producing mouse or keyboard movements.
 
 Requires a RP2040 board.
 
