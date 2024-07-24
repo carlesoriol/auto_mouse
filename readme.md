@@ -50,7 +50,7 @@ Bluetooth in this
 
 RGB color led requires a WS2812 BGR *(yes, BGR)* ked connected to pin 23.
 
-## 🔗 Source code
+Source code
 
 Use arduino rp2040 to compile the source.
 
